@@ -1,0 +1,2 @@
+Note that the module of exponential output is exp(-|x|) means that it receives positive input then calculate exponential of -|number|
+and in our case any input will be positive because it's (maximum input - any input)
