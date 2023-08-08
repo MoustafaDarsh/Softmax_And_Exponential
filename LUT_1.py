@@ -19,5 +19,3 @@ with open(file_name,'a') as f:
     for i in range (len(exp_values_binary)-1):
         f.write(f'''{exp_values_binary[i]}\n''')
     f.write(f'''{exp_values_binary[i+1]}''')
-
-    
